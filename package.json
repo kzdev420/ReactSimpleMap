@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "chart.js": "^2.9.3",
     "country-list": "^2.2.0",
-    "highcharts": "^8.1.2",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.10.0",
